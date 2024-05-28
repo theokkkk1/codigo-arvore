@@ -113,3 +113,4 @@ for contato in arvore_contatos.listar_contatos_ordem_alfabetica():
 
 print("Verificar se a lista de contatos está vazia:")
 print(arvore_contatos.lista_vazia())  # Saída: False
+
